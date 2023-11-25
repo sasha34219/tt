@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="styleaheet" href="style.css"/>
+        <link rel="stylesheet" href="style.css"/>
         <\head>
     <body>
         <header>
